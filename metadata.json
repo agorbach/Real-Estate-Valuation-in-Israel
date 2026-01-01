@@ -1,0 +1,5 @@
+{
+  "name": "Israel Real Estate Data Collector",
+  "description": "A high-precision, structured data collection and validation system for Israeli real estate assets, designed for seamless integration with machine learning valuation models.",
+  "requestFramePermissions": []
+}
